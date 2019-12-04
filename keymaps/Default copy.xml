@@ -1,0 +1,27 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>

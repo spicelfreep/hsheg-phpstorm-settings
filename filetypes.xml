@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="multiple_checkbox_tree" type="Blade" />
+      <mapping ext="2" type="HTML" />
+      <mapping ext="bak" type="HTML" />
+      <mapping ext="py" type="Native" />
+      <mapping pattern="redpackets" type="PHP" />
+      <mapping pattern="b4aa12eaa4596b5751aa071de671f1c4ce23620b" type="PLAIN_TEXT" />
+      <mapping pattern="ac711098f88a883590515dfd0dca35f9e2984b62" type="PLAIN_TEXT" />
+      <mapping pattern="485dba57d59c2eafd46d813de5253b2a6ee8862f" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="uuid" type="PLAIN_TEXT" />
+      <mapping ext="assetbundle" type="PLAIN_TEXT" />
+      <mapping ext="vue___jb_tmp___" type="PLAIN_TEXT" />
+      <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="vue___jb_old___" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>

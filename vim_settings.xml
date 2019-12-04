@@ -1,0 +1,384 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/projects/www/shop_app/application/api/controller/BaseController.php" timestamp="1569374427280">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" timestamp="1569324690143">
+        <mark key="'" line="74" column="32" />
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/Common.php" timestamp="1569306884251">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/index/controller/Index.php" timestamp="1569322013709">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="42" column="9" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/Shop.php" timestamp="1569320596852">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="26" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/Company.php" timestamp="1569321901658">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/User.php" timestamp="1569327151281">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/.htaccess" timestamp="1571799596704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="11" />
+      </file>
+      <file name="E:/projects/www/www.suanlishuijing.cn/.htaccess" timestamp="1571799600302">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" timestamp="1571743910625">
+        <mark key="'" line="131" column="39" />
+        <mark key="[" line="321" column="60" />
+        <mark key="]" line="322" column="19" />
+        <mark key="^" line="322" column="19" />
+        <mark key="." line="322" column="19" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/Position.php" timestamp="1569328574480">
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="103" column="27" />
+        <mark key="^" line="103" column="27" />
+        <mark key="." line="103" column="27" />
+      </file>
+      <file name="E:/projects/www/shop_app/route/api.php" timestamp="1569376721018">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="70" />
+        <mark key="^" line="23" column="70" />
+        <mark key="." line="23" column="70" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/ShopServe.php" timestamp="1569377726909">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+      </file>
+      <file name="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" timestamp="1571743808044">
+        <mark key="'" line="671" column="64" />
+        <mark key="[" line="444" column="43" />
+        <mark key="]" line="411" column="19" />
+        <mark key="." line="444" column="43" />
+        <mark key="^" line="411" column="19" />
+        <mark key="n" line="445" column="16" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/controller/v1/ShopPosition.php" timestamp="1569332854195">
+        <mark key="'" line="89" column="34" />
+        <mark key="[" line="140" column="80" />
+        <mark key="]" line="140" column="98" />
+        <mark key="." line="140" column="80" />
+        <mark key="^" line="52" column="47" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/index/controller/ShopServe.php" timestamp="1569375771275">
+        <mark key="'" line="17" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="97" column="9" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="21" column="30" />
+      </file>
+      <file name="E:/projects/www/shop_app/application/api/model/UserModel.php" timestamp="1569320779894">
+        <mark key="[" line="38" column="50" />
+        <mark key="]" line="38" column="50" />
+        <mark key="^" line="38" column="57" />
+        <mark key="." line="38" column="50" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="29" column="0" filename="E:/projects/www/shop_app/.gitignore" />
+      <jump line="7" column="60" filename="E:/projects/www/shop_app/.gitignore" />
+      <jump line="21" column="0" filename="E:/projects/www/shop_app/.gitignore" />
+      <jump line="9" column="0" filename="E:/projects/www/shop_app/.gitignore" />
+      <jump line="21" column="37" filename="E:/projects/labike.sql" />
+      <jump line="7456" column="23" filename="E:/projects/labike.sql" />
+      <jump line="7495" column="23" filename="E:/projects/labike.sql" />
+      <jump line="7491" column="14" filename="E:/projects/labike.sql" />
+      <jump line="7481" column="14" filename="E:/projects/labike.sql" />
+      <jump line="7480" column="22" filename="E:/projects/labike.sql" />
+      <jump line="7478" column="23" filename="E:/projects/labike.sql" />
+      <jump line="7474" column="14" filename="E:/projects/labike.sql" />
+      <jump line="7459" column="14" filename="E:/projects/labike.sql" />
+      <jump line="7458" column="22" filename="E:/projects/labike.sql" />
+      <jump line="7472" column="0" filename="E:/projects/labike.sql" />
+      <jump line="7081" column="23" filename="E:/projects/labike.sql" />
+      <jump line="7463" column="22" filename="E:/projects/labike.sql" />
+      <jump line="7518" column="42" filename="E:/projects/labike.sql" />
+      <jump line="7147" column="32" filename="E:/projects/labike.sql" />
+      <jump line="7104" column="21" filename="E:/projects/labike.sql" />
+      <jump line="7103" column="21" filename="E:/projects/labike.sql" />
+      <jump line="7112" column="35" filename="E:/projects/labike.sql" />
+      <jump line="2" column="0" filename="E:/projects/www/shop_app/public/nginx.htaccess" />
+      <jump line="0" column="0" filename="E:/projects/www/shop_app/public/nginx.htaccess" />
+      <jump line="5" column="20" filename="E:/projects/www/tp5.me/.gitignore" />
+      <jump line="0" column="0" filename="E:/projects/www/tp5.me/route/route.php" />
+      <jump line="19" column="1" filename="E:/projects/www/tp5.me/route/route.php" />
+      <jump line="24" column="4" filename="E:/projects/www/tp5.me/route/route.php" />
+      <jump line="2" column="0" filename="E:/projects/www/tp5.me/route/route.php" />
+      <jump line="5" column="41" filename="E:/projects/www/shop_app/.gitignore" />
+      <jump line="56" column="44" filename="E:/projects/www/shop_app/application/api/controller/V1/Card.php" />
+      <jump line="17" column="8" filename="E:/projects/www/shop_app/application/api/controller/V1/CardType.php" />
+      <jump line="41" column="34" filename="E:/projects/www/shop_app/application/api/model/UserModel.php" />
+      <jump line="50" column="0" filename="E:/projects/www/shop_app/config/app.php" />
+      <jump line="83" column="4" filename="E:/projects/www/shop_app/application/api/controller/v1/Auth.php" />
+      <jump line="179" column="6" filename="E:/projects/www/shop_app/application/api/controller/v1/Auth.php" />
+      <jump line="17" column="15" filename="E:/projects/www/shop_app/application/index/controller/Card.php" />
+      <jump line="40" column="15" filename="E:/projects/www/shop_app/application/index/controller/Card.php" />
+      <jump line="22" column="0" filename="E:/projects/www/shop_app/application/index/controller/Company.php" />
+      <jump line="85" column="0" filename="E:/projects/www/shop_app/application/api/controller/v1/Position.php" />
+      <jump line="100" column="15" filename="E:/projects/www/shop_app/application/index/controller/Position.php" />
+      <jump line="28" column="0" filename="E:/projects/www/shop_app/application/api/controller/v1/PositionGroup.php" />
+      <jump line="7" column="12" filename="E:/projects/www/shop_app/application/api/controller/v1/User.php" />
+      <jump line="79" column="49" filename="E:/projects/www/shop_app/application/api/controller/v1/Staff.php" />
+      <jump line="29" column="6" filename="E:/projects/www/shop_app/application/api/controller/v1/Common.php" />
+      <jump line="9" column="33" filename="E:/projects/www/shop_app/application/api/controller/v1/ShopServe.php" />
+      <jump line="48" column="18" filename="E:/projects/www/shop_app/application/api/controller/v1/ShopServe.php" />
+      <jump line="0" column="0" filename="E:/projects/www/shop_app/public/index.php" />
+      <jump line="8" column="9" filename="E:/projects/www/Zerg/application/api/validate/BaseValidate.php" />
+      <jump line="121" column="0" filename="E:/projects/www/shop_app/application/api/validate/v1/BaseValidate.php" />
+      <jump line="2" column="0" filename="E:/projects/www/shop_app/application/api/validate/v1/BaseValidate.php" />
+      <jump line="31" column="8" filename="E:/projects/www/shop_app/application/api/controller/v1/Auth.php" />
+      <jump line="46" column="28" filename="E:/projects/www/shop_app/application/api/controller/v1/Auth.php" />
+      <jump line="25" column="20" filename="E:/projects/www/shop_app/application/api/controller/BaseController.php" />
+      <jump line="14" column="34" filename="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" />
+      <jump line="75" column="25" filename="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" />
+      <jump line="74" column="40" filename="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" />
+      <jump line="13" column="21" filename="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" />
+      <jump line="73" column="32" filename="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" />
+      <jump line="10" column="24" filename="E:/projects/www/shop_app/application/api/controller/v1/Upload.php" />
+      <jump line="76" column="25" filename="E:/projects/www/shop_app/application/api/controller/v1/User.php" />
+      <jump line="6" column="0" filename="E:/projects/www/shop_app/application/api/controller/v1/User.php" />
+      <jump line="9" column="0" filename="E:/projects/www/shop_app/application/api/controller/v1/User.php" />
+      <jump line="161" column="0" filename="E:/projects/www/shop_app/application/api/controller/v1/User.php" />
+      <jump line="113" column="0" filename="E:/projects/www/shop_app/application/api/controller/v1/User.php" />
+      <jump line="89" column="34" filename="E:/projects/www/shop_app/application/api/controller/v1/ShopPosition.php" />
+      <jump line="17" column="10" filename="E:/projects/www/shop_app/application/index/controller/ShopServe.php" />
+      <jump line="719" column="0" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="413" column="28" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="429" column="9" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="449" column="12" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="460" column="9" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="482" column="12" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="610" column="12" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="411" column="19" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="412" column="35" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="424" column="9" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="425" column="43" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="439" column="30" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="442" column="84" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="444" column="22" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="447" column="57" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="475" column="27" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="472" column="30" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="456" column="30" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="191" column="17" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="192" column="14" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="298" column="14" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="305" column="65" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="48" column="17" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="320" column="14" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="350" column="52" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="549" column="37" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="648" column="64" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="671" column="64" filename="E:/projects/www/www.suanlishuijing.cn/application/index/controller/User.php" />
+      <jump line="131" column="39" filename="E:/projects/www/www.suanlishuijing.cn/application/api/controller/Plan.php" />
+      <jump line="5" column="0" filename="E:/projects/www/www.suanlishuijing.cn/.htaccess" />
+      <jump line="11" column="36" filename="$USER_HOME$/Desktop/.htaccess" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/.htaccess" />
+      <jump line="0" column="10" filename="E:/projects/www/www.suanlishuijing.cn/.htaccess" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+ClJld3JpdGVFbmdpbmUgb24KUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWQKUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWYKUmV3cml0ZVJ1bGUgXiguKikkIGluZGV4LnBocD8vJDEgW1FTQSxQVCxMXQo8L0lmTW9kdWxlPgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>getList</text>
+      </register>
+      <register name="/" type="4">
+        <text>confirm</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+CiBSZXdyaXRlRW5naW5lIG9uCiBSZXdyaXRlQmFzZSAvCiAgUmV3cml0ZUNvbmQgJXtSRVFVRVNUX1VSSX0gISgoLiopLmpwZ3wuanBlZ3wuYm1wfC5naWZ8LnBuZ3wuanN8LmNzcykkClJld3JpdGVSdWxlIHB1YmxpYy9VcGxvYWRzLyguKikuKHBocCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvVXBsb2Fkcy8oLiopLihQaHApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL1VwbG9hZHMvKC4qKS4ocEhwKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy9VcGxvYWRzLyguKikuKHBoUCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvVXBsb2Fkcy8oLiopLihQSFApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL1VwbG9hZHMvKC4qKS4ocEhQKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy9VcGxvYWRzLyguKikuKFBIcCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvVXBsb2Fkcy8oLiopLihQaFApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL3VwbG9hZHMvKC4qKS4ocGhwKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy91cGxvYWRzLyguKikuKFBocCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvdXBsb2Fkcy8oLiopLihwSHApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL3VwbG9hZHMvKC4qKS4ocGhQKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy91cGxvYWRzLyguKikuKFBIUCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvdXBsb2Fkcy8oLiopLihwSFApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL3VwbG9hZHMvKC4qKS4oUEhwKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy91cGxvYWRzLyguKikuKFBoUCkkIKhDIFtGXQpSZXdyaXRlUnVsZSAoLiopLihodGFjY2VzcykkIKhDW0ZdClJld3JpdGVSdWxlICguKikuKGd6KSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oc3FsKSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oYmFrKSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oemlwKSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oN3opJCCoQ1tGXQpSZXdyaXRlUnVsZSAoLiopLihyYXIpJCCoQ1tGXQogUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWQKIFJld3JpdGVDb25kICV7UkVRVUVTVF9GSUxFTkFNRX0gIS1mCiBSZXdyaXRlUnVsZSBeKC4qKSQgaW5kZXgucGhwP3M9LyQxIFtRU0EsUFQsTF0KPC9JZk1vZHVsZT4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+ClJld3JpdGVFbmdpbmUgb24KUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWQKUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWYKUmV3cml0ZVJ1bGUgXiguKikkIGluZGV4LnBocD8vJDEgW1FTQSxQVCxMXQo8L0lmTW9kdWxlPgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+ClJld3JpdGVFbmdpbmUgb24KUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWQKUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWYKUmV3cml0ZVJ1bGUgXiguKikkIGluZGV4LnBocC8kMSBbUVNBLFBULExdCjwvSWZNb2R1bGU+</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+CiBSZXdyaXRlRW5naW5lIG9uCiBSZXdyaXRlQmFzZSAvCiAgUmV3cml0ZUNvbmQgJXtSRVFVRVNUX1VSSX0gISgoLiopLmpwZ3wuanBlZ3wuYm1wfC5naWZ8LnBuZ3wuanN8LmNzcykkClJld3JpdGVSdWxlIHB1YmxpYy9VcGxvYWRzLyguKikuKHBocCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvVXBsb2Fkcy8oLiopLihQaHApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL1VwbG9hZHMvKC4qKS4ocEhwKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy9VcGxvYWRzLyguKikuKHBoUCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvVXBsb2Fkcy8oLiopLihQSFApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL1VwbG9hZHMvKC4qKS4ocEhQKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy9VcGxvYWRzLyguKikuKFBIcCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvVXBsb2Fkcy8oLiopLihQaFApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL3VwbG9hZHMvKC4qKS4ocGhwKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy91cGxvYWRzLyguKikuKFBocCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvdXBsb2Fkcy8oLiopLihwSHApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL3VwbG9hZHMvKC4qKS4ocGhQKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy91cGxvYWRzLyguKikuKFBIUCkkIKhDIFtGXQpSZXdyaXRlUnVsZSBwdWJsaWMvdXBsb2Fkcy8oLiopLihwSFApJCCoQyBbRl0KUmV3cml0ZVJ1bGUgcHVibGljL3VwbG9hZHMvKC4qKS4oUEhwKSQgqEMgW0ZdClJld3JpdGVSdWxlIHB1YmxpYy91cGxvYWRzLyguKikuKFBoUCkkIKhDIFtGXQpSZXdyaXRlUnVsZSAoLiopLihodGFjY2VzcykkIKhDW0ZdClJld3JpdGVSdWxlICguKikuKGd6KSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oc3FsKSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oYmFrKSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oemlwKSQgqENbRl0KUmV3cml0ZVJ1bGUgKC4qKS4oN3opJCCoQ1tGXQpSZXdyaXRlUnVsZSAoLiopLihyYXIpJCCoQ1tGXQogUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWQKIFJld3JpdGVDb25kICV7UkVRVUVTVF9GSUxFTkFNRX0gIS1mCiBSZXdyaXRlUnVsZSBeKC4qKSQgaW5kZXgucGhwP3M9LyQxIFtRU0EsUFQsTF0KPC9JZk1vZHVsZT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkgICAgZHVtcCgkaW5wdXQpO2V4aXQoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLyBSb3V0ZTo6Z2V0KCc6dmVyc2lvbi9zaG9wX3Bvc2l0aW9uL2luZm8nLCAnYXBpLzp2ZXJzaW9uLlBvc2l0aW9uL2luZm8nKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkgICAgLy8gZHVtcCgkcmVzKTsKCQkgICAgLy8gZXhpdCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gIGludCAgJGlkCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIM/Uyr7WuLaotcTXytS0Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>confirm</last-search>
+      <last-offset />
+      <last-pattern>confirm</last-pattern>
+      <last-replace />
+      <last-substitute>.ini</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>-</entry>
+        <entry>.ini</entry>
+        <entry>wxb_zhuangxiu_case</entry>
+        <entry>wxb_zhuangxiu_case_photo</entry>
+        <entry>wxb_user</entry>
+        <entry>`wxb_toutiao_contents`</entry>
+        <entry>wxb_toutiao_comment</entry>
+        <entry>merge</entry>
+        <entry>read</entry>
+        <entry>info</entry>
+        <entry>user_id</entry>
+        <entry>rawData</entry>
+        <entry>image</entry>
+        <entry>Image</entry>
+        <entry>记录</entry>
+        <entry>pig_list</entry>
+        <entry>pig_lists</entry>
+        <entry>pig</entry>
+        <entry>status</entry>
+        <entry>confirm</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wj</entry>
+        <entry encoding="base64">JzwsJz5zL0Jhbm5lcnMvV3hQYXlDb250cm9sbGVyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0Jhbm5lcnNDb250cm9sbGVyL1d4UGF5Q29udHJvbGxlci9n</entry>
+        <entry>ww</entry>
+        <entry encoding="base64">JzwsJz5zL3dlaXhpbnBheV9jb25maWcvd3hwYXlfY29uZmlnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLy0vcGhwNzItL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3cvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLy0vcGhwNzJ3LS9n</entry>
+        <entry encoding="base64">JzwsJz5zLy5pbmkvL2c=</entry>
+        <entry>W</entry>
+        <entry>qw</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w\</entry>
+        <entry>set nu</entry>
+        <entry>we</entry>
+        <entry>q</entry>
+        <entry>57</entry>
+        <entry>set  nu</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
